@@ -39,7 +39,7 @@ One way of detecting BITB is by attempting to drag the window to the edge of the
 
 @odacavo released a great browser extension that can detect and warn users about embedded iframes. It's available here: https://github.com/odacavo/enhanced-iframe-protection
 
-All credits go to @odacavo.
+All credits go to @_not_your_nobita.
 
 # Disclaimer
 
